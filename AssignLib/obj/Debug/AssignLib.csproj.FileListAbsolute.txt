@@ -1,0 +1,6 @@
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\bin\Debug\AssignLib.dll
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\bin\Debug\AssignLib.pdb
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\obj\Debug\AssignLib.csproj.AssemblyReference.cache
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\obj\Debug\AssignLib.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\obj\Debug\AssignLib.dll
+E:\Dotnet\Phase1\Day20\AssignLib\AssignLib\obj\Debug\AssignLib.pdb
